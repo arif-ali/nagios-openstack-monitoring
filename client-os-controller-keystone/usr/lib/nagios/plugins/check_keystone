@@ -4,7 +4,7 @@
 # Keystone API monitoring script for Nagios
 #
 # Authors:
-#   Rakesh Patnaik <rakesh.patnaik9@gmail.com>
+#   Rakesh Patnaik <patsrakesh@gmail.com>
 #
 # This file is part of nagios-openstack-monitoring
 # (https://github.com/rakesh-patnaik/nagios-openstack-monitoring)
@@ -20,7 +20,7 @@
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with Foobar.  If not, see <http://www.gnu.org/licenses/>.>.
+# along with nagios-openstack-monitoring.  If not, see <http://www.gnu.org/licenses/>.>.
 #
 # Requirments: python-keystoneclient, python-argparse, python
 
